@@ -4,7 +4,7 @@
 #
 Name     : mvn-dnsjava
 Version  : 2.1.7
-Release  : 1
+Release  : 2
 URL      : https://github.com/dnsjava/dnsjava/archive/v2.1.7.tar.gz
 Source0  : https://github.com/dnsjava/dnsjava/archive/v2.1.7.tar.gz
 Source1  : https://repo1.maven.org/maven2/dnsjava/dnsjava/2.1.7/dnsjava-2.1.7.jar
